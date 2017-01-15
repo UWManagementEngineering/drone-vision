@@ -1,3 +1,5 @@
+#pragma once
+
 #define TIMED_DEBUG 0
 #define DEBUG 1
 
